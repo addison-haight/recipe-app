@@ -14,7 +14,7 @@ const RecipeData = [
   {
     name: "Guacamole",
     cuisine: "Mexican",
-    photo: "https://en.wikipedia.org/wiki/Guacamole#/media/File:Guacamole_IMGP1271.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Guacamole_amb_%22nachos%22.jpg",
     ingredients: "3 ripe avocados. ¾ cup finely chopped Roma tomato. 2 serrano chiles very finely chopped (seeded and deveined). 3 heaping tablespoons of finely chopped onion. 3 tablespoons of minced cilantro. Salt to taste",
     preparation: "1. Remove the flesh of the avocados. 2. Mash the avocados with the back of a fork. 3. Add the other ingredients and incorporate evenly. 4. Add salt to taste."
   },
